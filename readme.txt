@@ -1,1 +1,2 @@
-Lrearning Git is going well so far.
+Welcome to My First Repo. 
+ Learning git is going well so far.
